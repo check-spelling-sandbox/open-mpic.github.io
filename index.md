@@ -14,7 +14,7 @@ Currently, the project provides:
 
 ## Project Roadmap
 
-The project roadmap detailing project direction and functionality is available [here](/open-mpic-roadmap.pdf).
+The [project roadmap](open-mpic-roadmap.pdf) details project direction and functionality.
 
 # API Documentation
 
