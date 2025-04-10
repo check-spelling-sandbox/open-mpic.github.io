@@ -43,7 +43,7 @@ This is a turnkey lambda deployment of Open MPIC using Open MPIC Core. It wraps 
 ### REST API Deployment ([https://github.com/open-mpic/open-mpic-containers](https://github.com/open-mpic/open-mpic-containers))
 
 This deployment is based on a REST API wrapper around Open MPIC Core which will uses REST API calls between the remote perspectives.
-This repo has several deployment examples including docker compose running on EC2, kubernetes, and local docker compose (for testing purposes only).
+This repo has several deployment examples including docker compose running on EC2, Kubernetes, and local docker compose (for testing purposes only).
 
 
 # Team
