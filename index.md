@@ -57,7 +57,7 @@ The below developers are currently in charge of code reviews/pull request evalua
 - Grace Cimaszewski (@Princeton University): Founder, Lead Developer
 - [Dmitry Sharkov](https://www.linkedin.com/in/dmitry-sharkov/) (@Sectigo): Lead Architect
 
-We are also proud to recieve engineering support from Princeton University and Sectigo.
+We are also proud to receive engineering support from Princeton University and Sectigo.
 
 # Project Background
 
